@@ -1206,18 +1206,4 @@ task.spawn(function()
         end))
     end)
 
-   
-
-
-
-
-   -- semi god mode
-   -- fake being cuffed
-   -- grabb dropped tool
-   -- fake username
-   -- fake credits
-   -- fling player
-   -- fling all
-   -- factory autofarm maybe
-   -- play sound (guns)
-   -- annoy all (tp and chat)
+ 
